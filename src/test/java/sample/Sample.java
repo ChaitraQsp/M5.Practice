@@ -6,6 +6,9 @@ public class Sample {
 		
 		//TC_002
 		System.out.println("TC_002");
+		
+		//TC_003
+		System.out.println("TC_003");
 	}
 
 }
